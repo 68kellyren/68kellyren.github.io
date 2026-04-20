@@ -8,7 +8,7 @@ date: 2024-02-11
 venue: 'Earths future'
 paperurl: 'https://academicpages.github.io/files/paper1_temporal_scaling_precipitation.pdf'
 bibtexurl: 'https://academicpages.github.io/files/bibtex1_temporal_scaling_precipitation.bib'
-citation: 'Ren, Z., Sang, Y. F., Cui, P., Chen, D., Zhang, Y., Gong, T., Sun, S. & Mellouli, N. (2024). Temporal scaling characteristics of sub‐daily precipitation in Qinghai‐Tibet Plateau. Earth's Future, 12(3), e2024EF004417. DOI:https://doi.org/10.1029/2024EF004417'
+citation: 'Ren, Z., Sang, Y. F., Cui, P., Chen, D., Zhang, Y., Gong, T., Sun, S. & Mellouli, N. (2024). Temporal scaling characteristics of sub‐daily precipitation in Qinghai‐Tibet Plateau. Earth''s Future, 12(3), e2024EF004417. DOI:https://doi.org/10.1029/2024EF004417'
 ---
 <!--
 # slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
