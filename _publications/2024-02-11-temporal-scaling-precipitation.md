@@ -2,7 +2,7 @@
 title: 'Temporal scaling characteristics of sub‐daily precipitation in Qinghai-Tibet Plateau'
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2024-02-11-temporal-scaling-precipitation
 excerpt: 'Detailed analysis of precipitation scaling in Qinghai-Tibet Plateau.'
 date: 2024-02-11
 venue: 'Earths future'
