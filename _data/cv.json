@@ -1,69 +1,69 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Zhihui Ren",
+    "email": "renzhihui068@168.com",
+//    "phone": "",
+    "website": "https://68kellyren.github.io",
+    "summary": "Currently employed at Tsinghua University. Short biography for the left-hand sidebar",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "Beijing",
+      "countryCode": "CN",
       "region": ""
     },
     "profiles": [
-      {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
-      },
+//     {
+//        "network": "Google Scholar",
+//        "username": "",
+//        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+//      },
+//      {
+//        "network": "ORCID",
+//        "username": "",
+//        "url": "https://orcid.org/yourorcidurl"
+//      },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "68kellyren",
+        "url": "https://github.com/68kellyren"
       }
     ]
   },
-  "work": [],
+//  "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "Institute of Geographic Sciences and Natural Resources Research, CAS",
+      "area": "Ph.D in Physical Geography",
       "studyType": "",
-      "startDate": "",
+      "startDate": "2021",
+      "endDate": "2025",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "Nanjing University",
+      "area": "M.S. in Physical Geography",
+      "studyType": "",
+      "startDate": "2018",
+      "endDate": "2021",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "Hunan Normal University",
+      "area": "B.S. in Geographical Science",
+      "studyType": "",
+      "startDate": "2014",
       "endDate": "2018",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
       "gpa": null,
       "courses": []
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
-  "references": [],
+  "skills": ["Python Programming","Machine Learning","Data Mining & Geospatial Analysis","MIKE21 Hydrological Modeling"],
+  "languages": [Chinese, English],
+//  "interests": [],
+//  "references": [],
   "publications": [
     {
       "name": "Paper Title Number 1",
