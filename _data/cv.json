@@ -61,7 +61,7 @@
     }
   ],
   "skills": ["Python Programming","Machine Learning","Data Mining & Geospatial Analysis","MIKE21 Hydrological Modeling"],
-  "languages": [Chinese, English],
+  "languages": ["Chinese","English"],
   "interests": [],
   "references": [],
   "publications": [
