@@ -6,8 +6,8 @@ permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'Detailed analysis of precipitation scaling in Qinghai-Tibet Plateau.'
 date: 2024-02-11
 venue: 'Earths future'
-paperurl: 'https://academicpages.github.io/files/paper1_temporal scaling.pdf'
-bibtexurl: 'https://academicpages.github.io/files/bibtex1_temporal scaling.bib'
+paperurl: 'https://academicpages.github.io/files/paper1_temporal_scaling_precipitation.pdf'
+bibtexurl: 'https://academicpages.github.io/files/bibtex1_temporal_scaling_precipitation.bib'
 citation: 'Ren, Z., Sang, Y. F., Cui, P., Chen, D., Zhang, Y., Gong, T., Sun, S. & Mellouli, N. (2024). Temporal scaling characteristics of sub‐daily precipitation in Qinghai‐Tibet Plateau. Earth's Future, 12(3), e2024EF004417. DOI:https://doi.org/10.1029/2024EF004417'
 ---
 <!--
