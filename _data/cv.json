@@ -2,7 +2,7 @@
   "basics": {
     "name": "Zhihui Ren",
     "email": "renzhihui068@168.com",
-//    "phone": "",
+    "phone": "",
     "website": "https://68kellyren.github.io",
     "summary": "Currently employed at Tsinghua University. Short biography for the left-hand sidebar",
     "location": {
@@ -13,16 +13,16 @@
       "region": ""
     },
     "profiles": [
-//     {
-//        "network": "Google Scholar",
-//        "username": "",
-//        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-//      },
-//      {
-//        "network": "ORCID",
-//        "username": "",
-//        "url": "https://orcid.org/yourorcidurl"
-//      },
+     {
+        "network": "",
+        "username": "",
+        "url": ""
+      },
+      {
+        "network": "",
+        "username": "",
+        "url": ""
+      },
       {
         "network": "GitHub",
         "username": "68kellyren",
@@ -30,7 +30,7 @@
       }
     ]
   },
-//  "work": [],
+  "work": [],
   "education": [
     {
       "institution": "Institute of Geographic Sciences and Natural Resources Research, CAS",
@@ -62,8 +62,8 @@
   ],
   "skills": ["Python Programming","Machine Learning","Data Mining & Geospatial Analysis","MIKE21 Hydrological Modeling"],
   "languages": [Chinese, English],
-//  "interests": [],
-//  "references": [],
+  "interests": [],
+  "references": [],
   "publications": [
     {
       "name": "Paper Title Number 1",
