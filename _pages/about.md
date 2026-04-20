@@ -10,8 +10,10 @@ redirect_from:
 I am Zhihui Ren, Ph.D., currently a postdoctoral researcher.  
 My research focuses on flash flood disasters, disaster-triggering rainfall, and mountain hazard modeling.
 
+### About This Site
 This website hosts my publications, talks, and a record of my academic activities.
 
+### Contact
 For inquiries, please contact me at renzhihui068@163.com.
 
 
