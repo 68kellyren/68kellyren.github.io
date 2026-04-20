@@ -1,7 +1,7 @@
 ---
 title: "Regional nutrient emissions and hydrological regime modulate the spatiotemporal patterns of nutrient levels within lake bay"
 collection: publications
-category: Journal Articles
+category: manuscripts
 permalink: /publication/2024-12-31-paper4-ecological-indicators
 excerpt: 'Analysis and modelling of nutrient transport from surface to rivers and lake bays'
 date: 2024-12-31
