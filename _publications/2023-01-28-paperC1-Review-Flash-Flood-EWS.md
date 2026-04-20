@@ -2,11 +2,11 @@
 title: "Progress of research on the methods for the early warning of mountain flash flood disasters"
 collection: publications
 category: manuscripts
-permalink: /publication/2023-01-28-Review-Flash-Flood-EWS
+permalink: /publication/2023-01-28-paperC1-Review-Flash-Flood-EWS
 excerpt: 'A review of mountain flash flood early warning methods in China, highlighting spatial differences, limitations of fixed critical rainfall, and the promise of probabilistic warning approaches.'
 date: 2023-01-28
 venue: 'Progress in Geography'
-paperurl: 'https://academicpages.github.io/files/paper3_Review_Flash_Flood_EWS.pdf'
+paperurl: 'https://academicpages.github.io/files/paperC1_review_flash_flood_EWS.pdf'
 citation: 'Ren, Z., Sang, Y. F., Yang, M., Wang, Y., & Shang, L. (2023). Progress of research on the methods for the early warning of mountain flash flood disasters (in Chinese). Progress in Geography, 42(1):185-196. DOI:10.18306/dlkxjz.2023.01.015.'
 ---
 
