@@ -2,7 +2,7 @@
 title: "Progress of research on the methods for the early warning of mountain flash flood disasters"
 collection: publications
 category: manuscripts
-permalink: /publication/2023-01-28-paperC1-Review-Flash-Flood-EWS
+permalink: /publication/2023-01-28-Review-Flash-Flood-EWS
 excerpt: 'A review of mountain flash flood early warning methods in China, highlighting spatial differences, limitations of fixed critical rainfall, and the promise of probabilistic warning approaches.'
 date: 2023-01-28
 venue: 'Progress in Geography'
