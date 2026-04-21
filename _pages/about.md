@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me <i class='fa-solid fa-circle-nodes'></i>"
+title: "About me <i class='fa-brands fa-bots'></i>"
 author_profile: true
 redirect_from: 
   - /about/
