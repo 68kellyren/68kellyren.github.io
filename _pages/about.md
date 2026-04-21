@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me <i class='fa-brands fa-gitlab'></i>"
+title: "About me <i class='fa-solid fa-circle-nodes'></i>"
 author_profile: true
 redirect_from: 
   - /about/
