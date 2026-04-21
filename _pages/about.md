@@ -1,14 +1,15 @@
 ---
 permalink: /
-title: "Welcome to My Academic Homepage"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am Zhihui Ren, Ph.D., currently a postdoctoral researcher.  
-My research focuses on flash flood disasters, disaster-triggering rainfall, and mountain hazard modeling.
+Hi there, I am Zhihui Ren. 
+
+I am currently a postdoctoral research fellow in the Department of Hydraulic Engineering, Tsinghua University, working with research group of Prof. Fuqiang Tian. My research focuses on flash floods early warning, disaster-triggering rainfall, and mountain hazard modeling. I obtain my Ph.D. in Geophysics in 2025 from Institute of Geographical Sciences and Natural Resources Research, Chinese Academy of Sciences, under the supervision of Prof. Yan-Fang Sang, where I worked on sub-daily precipitation analysis and probabilistic warning methods of flash floods. 
 
 ### About This Site
 This website hosts my publications, talks, and a record of my academic activities.
