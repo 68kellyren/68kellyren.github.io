@@ -5,7 +5,7 @@ var addressPoints = [
     13.3951309
   ],
   [
-    "\u9752\u85cf\u9ad8\u539f\u66b4\u96e8\u5c71\u6d2a\u707e\u5bb3\u6982\u7387\u9884\u8b66\u7814\u7a76<br />Chengdu University of Technology; Chengdu, China",
+    "Probabilistic early warning of rainfall-triggered flash flood disasters on the Qinghai-Tibet Plateau<br />THE 2nd Chinese National Conference on Information Geography; Chengdu, China",
     30.659867,
     104.063315
   ]
