@@ -3,14 +3,13 @@ title: 'Temporal scaling characteristics of sub‐daily precipitation in Qinghai
 collection: publications
 category: manuscripts
 permalink: /publication/2024-02-11-temporal-scaling-precipitation
-excerpt: 'Detailed analysis of precipitation scaling in Qinghai-Tibet Plateau.'
 date: 2024-02-11
 venue: 'Earth''s Future'
 paperurl: 'https://academicpages.github.io/files/paper1_temporal_scaling_precipitation.pdf'
-
-citation: 'Ren, Z., Sang, Y. F., Cui, P., Chen, D., Zhang, Y., Gong, T., Sun, S. & Mellouli, N. (2024). Temporal scaling characteristics of sub‐daily precipitation in Qinghai‐Tibet Plateau. Earth''s Future, 12(3), e2024EF004417. DOI:10.1029/2024EF004417'
+<span style="color: #3498DB; font-size: 14px;">citation: 'Ren, Z., Sang, Y. F., Cui, P., Chen, D., Zhang, Y., Gong, T., Sun, S. & Mellouli, N. (2024). Temporal scaling characteristics of sub‐daily precipitation in Qinghai‐Tibet Plateau. Earth''s Future, 12(3), e2024EF004417. DOI:10.1029/2024EF004417'</span>
 ---
 <!--
+excerpt: 'Detailed analysis of precipitation scaling in Qinghai-Tibet Plateau.'
 slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
 bibtexurl: 'https://academicpages.github.io/files/bibtex1_temporal_scaling_precipitation.bib'
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
