@@ -91,6 +91,14 @@ publication_category:
   conferences:
     title: 'Conference Papers'
 
+# Publication Category - The following the list of publication categories and their headings
+datacode_category:
+  dataset:
+    title: 'Datasets'
+  code:
+    title: 'Code & Software'    
+
+
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
 breadcrumbs              : false # true, false (default)
@@ -231,6 +239,9 @@ collections:
     output: true
     permalink: /:collection/:path/
   talks:
+    output: true
+    permalink: /:collection/:path/
+  data-code:
     output: true
     permalink: /:collection/:path/
 

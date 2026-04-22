@@ -15,24 +15,6 @@ Education
 * M.S. in Nanjing University, 2018-2021
 * B.S. in Hunan Normal University, 2014-2018
 
-<!--
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
--->
 
 Skills
 ======
@@ -55,7 +37,24 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
  
+<!--
+Work experience
+======
+* Spring 2024: Academic Pages Collaborator
+  * GitHub University
+  * Duties includes: Updates and improvements to template
+  * Supervisor: The Users
 
+* Fall 2015: Research Assistant
+  * GitHub University
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
+
+* Summer 2015: Research Assistant
+  * GitHub University
+  * Duties included: Tagging issues
+  * Supervisor: Professor Git
+-->
 <!--   
 Teaching
 ======
