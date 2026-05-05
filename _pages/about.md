@@ -10,7 +10,7 @@ redirect_from:
 ### Hi there, I am Zhihui Ren. 
 I am currently a postdoctoral research fellow in the Department of Hydraulic Engineering, Tsinghua University, working with research group of <span style="color: #2980b9; text-decoration: underline;font-weight:bold;">Prof. Fuqiang Tian</span> and <span style="color: #2980b9; text-decoration: underline;font-weight:bold;">Dr. Yi Nan</span>. My research focuses on flash flood early warning, disaster-triggering rainfall, and mountain hazard modeling. 
 
-I obtain my Ph.D. in Physical Geography in 2025 from Institute of Geographical Sciences and Natural Resources Research, Chinese Academy of Sciences, under the supervision of <span style="color: #2980b9; text-decoration: underline;font-weight:bold;">Prof. Yanfang Sang</span>, where I worked on sub-daily precipitation analysis and probabilistic flash floods warning methods. 
+I obtain my Ph.D. in Physical Geography in 2025 from Institute of Geographical Sciences and Natural Resources Research, Chinese Academy of Sciences, under the supervision of <span style="color: #2980b9; text-decoration: underline;font-weight:bold;">Prof. Yanfang Sang</span>, where I worked on sub-daily precipitation analysis and probabilistic flash flood warning methods. 
 
 ### About This Site
 This website hosts my publications, talks, and a record of my academic activities.
